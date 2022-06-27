@@ -1,0 +1,16 @@
+##### #Link para download do GIT https://git-scm.com/downloads
+
+ ##Comando básicos Windows  :
+
+Windows > Cmd
+
+Comando para listar > DIR
+
+Comando para entrar na base de um arquivo > CD
+
+Comando para criar pasta > MKDIR
+
+Comando para apagar arquivo >DEL
+
+Comando para deletar arquivo e pasta > RMDIR
+
